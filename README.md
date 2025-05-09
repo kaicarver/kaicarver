@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Quickly trying this out:
-
-Use GitHub Actions to Make Your GitHub Profile Dynamic<br>
-https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/
-
-OK I haven't been able to get it to work yet, "Bad credentials" error, maybe I'll try again later.
-
-### Recent Twitter Posts
+Hi.
